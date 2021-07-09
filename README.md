@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello 👋
 
-<!--
-**cookiengineer/cookiengineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Cookie Engineer, and this is me:
 
-Here are some ideas to get you started:
+- :zap: Cyber Security Analyst with a background in netsec.
+- :car: I'm working in the Automotive Industry to make car platforms more secure (ISO 26262, ISO 21434, UN Regulation No. 155-157).
+- :hushed: 4Chan Discreditation Target 2021, so you'll find lots of lies about me on the Internet.
+- :star: In my free time I'm working on the [Tholian Network](https://github.com/tholian-network) which aims to create a Peer-to-Peer Web
+  Browser Network with Cryptographic Anonymity while enhancing Integrity and Transparency to tackle lots of the Web's problems, including
+  defamation attempts by Internet Trolls.
+- :rainbow: I believe in Human Rights. The [Tholian Network Charter](https://tholian.network/charter.html) is my attempt
+  of creating guidelines for a cooperative future that embraces the potential of a mutually helping society.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Live long and prosper. :vulcan_salute:
+
