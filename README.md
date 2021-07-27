@@ -9,7 +9,7 @@ I'm Cookie Engineer, and this is me:
 - :hushed: I'm a 4Chan Discreditation Target of 2021, so you'll find lots of lies about me on the Internet.
 - :rocket: In my free time I'm working on the [Tholian Network](https://github.com/tholian-network) which aims to create a peer-to-peer Web
   Browser network with cryptographic anonymity while enhancing Integrity and Transparency to tackle lots of the Web's problems, including
-  defamation attempts by Internet Trolls and politically directed Emotional Mobs.
+  defamation attempts by Internet Trolls and other (state-level) actors that abuse the power of unverifiable sources.
 - :rainbow: I believe in Human Rights. The [Tholian Network Charter](https://tholian.network/charter.html) is my attempt
   of creating guidelines for a cooperative future that embraces the potential of a mutually helping society.
 
