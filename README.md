@@ -3,11 +3,12 @@
 I'm Cookie Engineer, and this is me:
 
 :shield: I'm somewhat a Cyber Security Analyst or Engineer with a specialization in `netsec` and `infosec`.
+I do binary exploitation CTFs a lot, but I'm still pretty bad at it. I guess I just don't like C's lack of
+security relevant concepts.
 
 :rocket: These days I'm working on the [Tholian Network](https://tholian.network) which aims to create
-a peer-to-peer self-adapting Cyber Defense Network that preserves cryptographic anonymity while enhancing
-integrity, truth and transparency auf Audits, Incidents and Mitigations in order to tackle lots of today's
-IT security-related problems.
+a peer-to-peer self-adapting Cyber Defense Network that does automated audits, updates, management, and
+intelligent firewalling of systems by using botnet techniques to combat botnets.
 
 :computer: My previous work focussed on Blueteam/Purpleteam work, by defending network infrastructures
 and by making large-scale computation systems more secure (e.g. ISO 27001, ISO 27033 or IEC 62443, ISO 21434,
