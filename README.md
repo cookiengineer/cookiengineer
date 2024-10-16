@@ -1,5 +1,7 @@
 ### Hello 👋
 
+![cookiengineer](./cookiengineer.jpg)
+
 I'm Cookie Engineer, and this is me:
 
 :shield: I'm a Cyber Security Analyst / Pentest Engineer with a specialization in `netsec` and `infosec`.
