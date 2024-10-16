@@ -1,6 +1,6 @@
 ### Hello 👋
 
-![cookiengineer](./cookiengineer.jpg)
+<img align="right" width="128" height="128" src="https://raw.githubusercontent.com/cookiengineer/cookiengineer/main/avatar.jpg">
 
 I'm Cookie Engineer, and this is me:
 
