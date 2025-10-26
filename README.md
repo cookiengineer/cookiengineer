@@ -4,11 +4,18 @@
 
 I'm Cookie Engineer, and this is me:
 
-:shield: I'm a Cyber Security Analyst / Pentest Engineer with a specialization in `netsec` and `infosec`.
-I do a lot of binary exploitation CTFs, but I'm still pretty bad at it.
+:shield: I'm a Cyber Defense Engineer / Purpleteam Engineer with a specialization in `appsec`, `netsec`, and `infosec`.
+I do a lot of binary exploitation CTFs, but I'm still pretty bad at it. Check out my [writeups](https://github.com/cookiengineer/writeups)
+if you like that sorta thing.
 
-:rocket: I'm working on the [Tholian Network](https://tholian.network) which aims to create
-a peer-to-peer self-adapting Cyber Defense Network intelligently fights back against APT botnets.
+:rocket: I'm working on the [Tholian Network](https://tholian.network) which aims to create a peer-to-peer self-adapting
+Cyber Defense Network that infiltrates malware and proactively fights back against APT botnets. It's something in between
+reproducible Cybersecurity as Code and a peer-to-peer symbolic inference preserving AI model that runs embedded in the
+EDR agents on all machines.
+
+:hammer_and_wrench: When I have the time for it I'm working on [gooey](https://github.com/cookiengineer/gooey) and some little
+apps like [git-evac](https://github.com/cookiengineer/git-evac) or [agenda](https://github.com/cookiengineer/agenda) to find
+out whether Go is a feasible frontend language when combined with a Reactive MVC architecture.
 
 :computer: Previously I did Blueteam/Purpleteam work, by defending network infrastructures
 and by making large-scale computation systems more secure (e.g. ISO 27001, ISO 27033 or IEC 62443, ISO 21434,
@@ -16,13 +23,17 @@ ISO 26262, UN Regulations No 155/156 and NIS2).
 
 :abacus: I started programming when I was 8, on the 6502. My first soldering experience was the Turbo and 128k Mod,
 that I did at the age of 9. I learned a ton along the way, and I've realized a long time ago that humans are bad at
-programming. I think that more restrictions in opinionate) programming languages lead to higher code quality in the
+programming. I think that more restrictions in opinionated programming languages lead to higher code quality in the
 face of code fuzzing, automated exploit code generation, and overly complex systems. The best programming language
 is the one with the least maintenance burden.
 
+:hammer_and_pick: Currently, so I believe, the programming language with the least maintenance burden is `Go`. You
+can write me some hatemail to `idontcare [at] cookie.engineer` on how `Rust` is better in every way while still ignoring
+that you probably maintain more bindings than actual program codebases.
+
 :heart: My preferred languages are `Go`, `eBPF`, and `WebASM`. But I've done a lot of work in `C`, `C++`, `NASM`,
-`node.js`, `RAPID`, `SPS`, `JerryScript`, `V8GL`, `HTML5`, `CSS4`, `WebGL`, `Rust`, `Lua`, `Nidium` and other runtimes
-due to my passion for electronics, robotics, and game jams.
+`node.js`, `RAPID`, `SPS`, `JerryScript`, `V8GL`, `HTML5`, `CSS4`, `WebGL`, `Python`, `Rust`, `Lua`, `Nidium` and
+probably other runtimes due to my passion for electronics, robotics, CTFs, and game jams.
 
 :robot: I love to automate code generation with co-evolutionary [backpropagated ES/HyperNEAT](https://stars.library.ucf.edu/facultybib2000/2178/),
 [Hypernetworks](https://arxiv.org/abs/1609.09106) and [Compositional Game Theory](https://arxiv.org/abs/1603.04641)
