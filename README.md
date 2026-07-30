@@ -33,12 +33,6 @@ Here be dragons, expect them breaking at any time.
 and by making large-scale computation systems more secure (e.g. ISO 27001, ISO 27033 or IEC 62443, ISO 21434,
 ISO 26262, UN Regulations No 155/156 and NIS2).
 
-:abacus: I started programming when I was 8, on the 6502. My first soldering experience was the Turbo and 128k Mod,
-that I did at the age of 9. I learned a ton along the way, and I've realized a long time ago that humans are bad at
-programming. I think that more restrictions in opinionated programming languages lead to higher code quality in the
-face of code fuzzing, automated exploit code generation, and overly complex systems. The best programming language
-is the one with the least maintenance burden.
-
 :hammer_and_pick: Currently, so I believe, the programming language with the least maintenance burden is `Go`. You
 can write me some hatemail to `idontcare [at] cookie.engineer` on how `Rust` is better in every way while still ignoring
 that you probably maintain more bindings than actual program codebases.
