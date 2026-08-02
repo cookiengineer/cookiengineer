@@ -29,7 +29,7 @@ first of its kind because it was developed using ChatGPT Codex and had 17 differ
 of the campaign.
 
 :robot: Other example projects built with exocomp are [poqman](https://github.com/cookiengineer/poqman),
-[systempanel](https://github.com/cookiengneer/systempanel), [goaccess](https://github.com/cookiengineer/goaccess),
+[systempanel](https://github.com/cookiengineer/systempanel), [goaccess](https://github.com/cookiengineer/goaccess),
 [gobayashi](https://github.com/cookiengineer/gobayashi), [godecompose](https://github.com/cookiengineer/godecompose).
 [gotestwasm](https://github.com/cookiengineer/gotestwasm), [gows](https://github.com/cookiengineer/gows),
 and [gozim](https://github.com/cookiengineer/gozim).
