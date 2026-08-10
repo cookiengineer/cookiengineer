@@ -28,11 +28,12 @@ the first self-spreading counter-worm vaccine. The project itself was a response
 first of its kind because it was developed using ChatGPT Codex and had 17 different mutations within the first two weeks
 of the campaign.
 
-:robot: Other example projects built with exocomp are [poqman](https://github.com/cookiengineer/poqman),
+:robot: Other example projects built with exocomp are [hydra](https://github.com/cookiengineer/hydra),
+[pacman-backup](https://github.com/cookiengineer/pacman-backup), [poqman](https://github.com/cookiengineer/poqman),
 [systempanel](https://github.com/cookiengineer/systempanel), [goaccess](https://github.com/cookiengineer/goaccess),
 [gobayashi](https://github.com/cookiengineer/gobayashi), [godecompose](https://github.com/cookiengineer/godecompose).
 [gotestwasm](https://github.com/cookiengineer/gotestwasm), [gows](https://github.com/cookiengineer/gows),
-and [gozim](https://github.com/cookiengineer/gozim).
+and [gozim](https://github.com/cookiengineer/gozim) and [zimdex](https://github.com/cookiengineer/zimdex).
 
 :computer: Previously I did Blueteam/Purpleteam work, by defending network infrastructures and by
 making large-scale computation systems more secure (e.g. ISO 27001, ISO 27033 or IEC 62443, ISO 21434,
