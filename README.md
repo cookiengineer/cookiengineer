@@ -33,7 +33,7 @@ of the campaign.
 [systempanel](https://github.com/cookiengineer/systempanel), [goaccess](https://github.com/cookiengineer/goaccess),
 [gobayashi](https://github.com/cookiengineer/gobayashi), [godecompose](https://github.com/cookiengineer/godecompose).
 [gotestwasm](https://github.com/cookiengineer/gotestwasm), [gows](https://github.com/cookiengineer/gows),
-and [gozim](https://github.com/cookiengineer/gozim) and [zimdex](https://github.com/cookiengineer/zimdex).
+[gozim](https://github.com/cookiengineer/gozim) and [zimdex](https://github.com/cookiengineer/zimdex).
 
 :computer: Previously I did Blueteam/Purpleteam work, by defending network infrastructures and by
 making large-scale computation systems more secure (e.g. ISO 27001, ISO 27033 or IEC 62443, ISO 21434,
