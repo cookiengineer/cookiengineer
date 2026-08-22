@@ -13,27 +13,31 @@ self-adapting Cyber Defense Network that infiltrates malware and proactively fig
 botnets. It's something in between reproducible Cybersecurity as Code and a symbolic inference preserving
 AI model that runs embedded in the EDR agents on all machines.
 
-:hammer_and_wrench: Whenever I have the time for it I'm working on [gooey](https://github.com/cookiengineer/gooey)
-and some little apps like [git-evac](https://github.com/cookiengineer/git-evac) or [agenda](https://github.com/cookiengineer/agenda)
-to find out whether Go is a feasible frontend language when combined with a Unidirectional Reactive
-MVC architecture.
+:book: My current effort focuses on archiving the remaining knowledge of the internet, and to preserve
+it for future generations. Part of this decentralization effort is [gonano](https://github.com/cookiengineer/gonano),
+[gozim](https://github.com/cookiengineer/gozim), and [zimdex](https://github.com/cookiengineer/zimdex).
 
-:robot: I'm currently experimenting a lot with my abliterated self-hosted LLM stack and my own agentic
-environment called [exocomp](https://github.com/cookiengineer/exocomp) which focuses on cyber security
-related work, malware analysis, and counter-malware development. It embraces specification and test-driven
-development. Projects built with it are usually beyond human knowability.
+:hammer_and_wrench: Whenever I have the time for it I'm working on a pure Go toolchain for building software
+more efficiently. This includes my agentic environment [exocomp](https://github.com/cookiengineer/exocomp),
+my WebASM and UI framework [gooey](https://github.com/cookiengineer/gooey), and some smaller example apps
+like [git-evac](https://github.com/cookiengineer/git-evac) or [agenda](https://github.com/cookiengineer/agenda).
+The goal is to find out whether Go is a feasible frontend language when combined with a Unidirectional and
+Reactive MVC architecture.
 
-:syringe: The first successful project built with it was [antimiasma](https://github.com/cookiengineer/antimiasma),
-the first self-spreading counter-worm vaccine. The project itself was a response to the miasma malware campaigns, also the
-first of its kind because it was developed using ChatGPT Codex and had 17 different mutations within the first two weeks
-of the campaign.
+:syringe: The first successful project built with the `exocomp` environment was [antimiasma](https://github.com/cookiengineer/antimiasma),
+the first self-spreading counter-worm vaccine. The vaccine itself was a response to the [miasma](https://github.com/cookiengineer/miasma-sample)
+malware campaigns, which was developed using ChatGPT Codex and had 17 different mutations while the campaign
+was still ongoing in the first two weeks.
 
 :robot: Other example projects built with exocomp are [hydra](https://github.com/cookiengineer/hydra),
-[pacman-backup](https://github.com/cookiengineer/pacman-backup), [poqman](https://github.com/cookiengineer/poqman),
+[pacman-backup](https://github.com/cookiengineer/pacman-backup), [systemintegrity](https://github.com/cookiengineer/systemintegrity),
 [systempanel](https://github.com/cookiengineer/systempanel), [goaccess](https://github.com/cookiengineer/goaccess),
-[gobayashi](https://github.com/cookiengineer/gobayashi), [godecompose](https://github.com/cookiengineer/godecompose).
-[gotestwasm](https://github.com/cookiengineer/gotestwasm), [gows](https://github.com/cookiengineer/gows),
-[gozim](https://github.com/cookiengineer/gozim) and [zimdex](https://github.com/cookiengineer/zimdex).
+[gobayashi](https://github.com/cookiengineer/gobayashi), [gotestwasm](https://github.com/cookiengineer/gotestwasm),
+[gows](https://github.com/cookiengineer/gows).
+
+:construction: Unstable projects built with exocomp are [godecompose](https://github.com/cookiengineer/godecompose)
+and [poqman](https://github.com/cookiengineer/poqman). They still need some more care for a the typically
+required refactor after an agentic environment was used to build a prototype.
 
 :computer: Previously I did Blueteam/Purpleteam work, by defending network infrastructures and by
 making large-scale computation systems more secure (e.g. ISO 27001, ISO 27033 or IEC 62443, ISO 21434,
@@ -44,7 +48,7 @@ can write me some hatemail to `idontcare [at] cookie.engineer` on how `Rust` is 
 while still ignoring that you probably maintain more bindings than actual program codebases.
 
 :heart: My preferred languages are `Go`, `eBPF`, and `WebASM`. But I've done a lot of work in `C`,
-`C++`, `NASM`, `node.js`, `RAPID`, `SPS`, `JerryScript`, `V8GL`, `HTML5`, `CSS4`, `WebGL`, `Python`,
+`C++`, `NASM`, `node.js`, `RAPID`, `SPS`, `JerryScript`, `HTML5`, `CSS4`, `WebGL`, `Python`,
 `Rust`, `Lua`, `Nidium` and probably other runtimes due to my passion for electronics, robotics, CTFs,
 and gamedev jams.
 
