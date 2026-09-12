@@ -31,13 +31,15 @@ was still ongoing in the first two weeks.
 
 :robot: Other example projects built with exocomp are [hydra](https://github.com/cookiengineer/hydra),
 [pacman-backup](https://github.com/cookiengineer/pacman-backup), [systemintegrity](https://github.com/cookiengineer/systemintegrity),
-[systempanel](https://github.com/cookiengineer/systempanel), [goaccess](https://github.com/cookiengineer/goaccess),
-[gobayashi](https://github.com/cookiengineer/gobayashi), [gotestwasm](https://github.com/cookiengineer/gotestwasm),
-[gows](https://github.com/cookiengineer/gows).
+[systempanel](https://github.com/cookiengineer/systempanel), [universal-translator](https://github.com/cookiengineer/universal-translator),
+[goaccess](https://github.com/cookiengineer/goaccess), [gobayashi](https://github.com/cookiengineer/gobayashi),
+[gosql](https://github.com/cookiengineer/gosql), [gotestwasm](https://github.com/cookiengineer/gotestwasm),
+[gowifi](https://github.com/cookiengineer/gowifi), [gows](https://github.com/cookiengineer/gows).
 
-:construction: Unstable projects built with exocomp are [godecompose](https://github.com/cookiengineer/godecompose)
-and [poqman](https://github.com/cookiengineer/poqman). They still need some more care for a the typically
-required refactor after an agentic environment was used to build a prototype.
+:construction: Unstable projects built with exocomp are [clausrts](https://github.com/cookiengineer/clausrts),
+[godecompose](https://github.com/cookiengineer/godecompose) and [poqman](https://github.com/cookiengineer/poqman).
+They still need some more care for a the typically required refactor after an agentic environment was used
+to build a prototype.
 
 :computer: Previously I did Blueteam/Purpleteam work, by defending network infrastructures and by
 making large-scale computation systems more secure (e.g. ISO 27001, ISO 27033 or IEC 62443, ISO 21434,
