@@ -29,9 +29,10 @@ the first self-spreading counter-worm vaccine. The vaccine itself was a response
 malware campaigns, which was developed using ChatGPT Codex and had 17 different mutations while the campaign
 was still ongoing in the first two weeks.
 
-:robot: Other example projects built with exocomp are [hydra](https://github.com/cookiengineer/hydra),
-[pacman-backup](https://github.com/cookiengineer/pacman-backup), [systemintegrity](https://github.com/cookiengineer/systemintegrity),
-[systempanel](https://github.com/cookiengineer/systempanel), [universal-translator](https://github.com/cookiengineer/universal-translator),
+:robot: Other example projects built with exocomp are [tholian-firewall](https://github.com/tholian-network/firewall),
+[hydra](https://github.com/cookiengineer/hydra), [pacman-backup](https://github.com/cookiengineer/pacman-backup),
+[system-integrity](https://github.com/cookiengineer/system-integrity), [system-panel](https://github.com/cookiengineer/system-panel),
+[universal-translator](https://github.com/cookiengineer/universal-translator) or libraries like
 [goaccess](https://github.com/cookiengineer/goaccess), [gobayashi](https://github.com/cookiengineer/gobayashi),
 [gosql](https://github.com/cookiengineer/gosql), [gotestwasm](https://github.com/cookiengineer/gotestwasm),
 [gowifi](https://github.com/cookiengineer/gowifi), [gows](https://github.com/cookiengineer/gows).
