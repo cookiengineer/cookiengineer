@@ -14,8 +14,10 @@ botnets. It's something in between reproducible Cybersecurity as Code and a symb
 AI model that runs embedded in the EDR agents on all machines.
 
 :book: My current effort focuses on archiving the remaining knowledge of the internet, and to preserve
-it for future generations. Part of this decentralization effort is [gonano](https://github.com/cookiengineer/gonano),
-[gozim](https://github.com/cookiengineer/gozim), and [zimdex](https://github.com/cookiengineer/zimdex).
+it for future generations. Part of this decentralization effort is my AI and ML research like [gonano](https://github.com/cookiengineer/gonano),
+[goneat](https://github.com/cookiengineer/goneat), or [goganet](https://github.com/cookiengineer/goganet).
+My web archiving efforts use the OpenZIM format, and the projects [gozim](https://github.com/cookiengineer/gozim),
+[zim2md](https://github.com/cookiengineer/zim2md), and [zimdex](https://github.com/cookiengineer/zimdex).
 
 :hammer_and_wrench: Whenever I have the time for it I'm working on a pure Go toolchain for building software
 more efficiently. This includes my agentic environment [exocomp](https://github.com/cookiengineer/exocomp),
