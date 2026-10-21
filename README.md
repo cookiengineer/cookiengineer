@@ -9,15 +9,17 @@ and `infosec`. I do a lot of binary exploitation CTFs, but I'm still pretty bad 
 [writeups](https://github.com/cookiengineer/writeups) if you like that sorta thing.
 
 :rocket: I'm working on the [Tholian Network](https://tholian.network) which aims to create a peer-to-peer
-self-adapting Cyber Defense Network that infiltrates malware and proactively fights back against APT
-botnets. It's something in between reproducible Cybersecurity as Code and a symbolic inference preserving
-AI model that runs embedded in the EDR agents on all machines.
+self-adapting Cyber Defense Network that proactively analyzes and infiltrates malware implants and fights back
+against APT controlled botnets. It's something in between reproducible Cybersecurity as Code and a symbolic
+inference preserving AI/ML model that runs embedded in the EDR agents on all machines.
 
-:book: My current effort focuses on archiving the remaining knowledge of the internet, and to preserve
-it for future generations. Part of this decentralization effort is my AI and ML research like [gonano](https://github.com/cookiengineer/gonano),
-[goneat](https://github.com/cookiengineer/goneat), or [goganet](https://github.com/cookiengineer/goganet).
-My web archiving efforts use the OpenZIM format, and the projects [gozim](https://github.com/cookiengineer/gozim),
+:book: My web archiving efforts use the OpenZIM format, and the projects [gozim](https://github.com/cookiengineer/gozim),
 [zim2md](https://github.com/cookiengineer/zim2md), and [zimdex](https://github.com/cookiengineer/zimdex).
+
+:robot: Part of this decentralization effort is my AI and ML research like [gonano](https://github.com/cookiengineer/gonano),
+[goneat](https://github.com/cookiengineer/goneat), [goganet](https://github.com/cookiengineer/goganet),
+or distillation work like [opencode-reasoning-extractor](https://github.com/cookiengineer/opencode-reasoning-extractor)
+and [qwen-reasoning-trainer](https://github.com/cookiengineer/qwen-reasoning-trainer).
 
 :hammer_and_wrench: Whenever I have the time for it I'm working on a pure Go toolchain for building software
 more efficiently. This includes my agentic environment [exocomp](https://github.com/cookiengineer/exocomp),
@@ -26,48 +28,22 @@ like [git-evac](https://github.com/cookiengineer/git-evac) or [agenda](https://g
 The goal is to find out whether Go is a feasible frontend language when combined with a Unidirectional and
 Reactive MVC architecture.
 
-:syringe: The first successful project built with the `exocomp` environment was [antimiasma](https://github.com/cookiengineer/antimiasma),
+:syringe: The first successful project built with the Exocomp environment was [antimiasma](https://github.com/cookiengineer/antimiasma),
 the first self-spreading counter-worm vaccine. The vaccine itself was a response to the [miasma](https://github.com/cookiengineer/miasma-sample)
 malware campaigns, which was developed using ChatGPT Codex and had 17 different mutations while the campaign
 was still ongoing in the first two weeks.
 
-:robot: Other example projects built by me and maintained with exocomp are [tholian-firewall](https://github.com/tholian-network/firewall),
-[hydra](https://github.com/cookiengineer/hydra), [pacman-backup](https://github.com/cookiengineer/pacman-backup),
-[system-integrity](https://github.com/cookiengineer/system-integrity), [system-panel](https://github.com/cookiengineer/system-panel),
-[universal-translator](https://github.com/cookiengineer/universal-translator) or libraries like
-[goaccess](https://github.com/cookiengineer/goaccess), [gobayashi](https://github.com/cookiengineer/gobayashi),
-[gosql](https://github.com/cookiengineer/gosql), [gotestwasm](https://github.com/cookiengineer/gotestwasm),
-[gowifi](https://github.com/cookiengineer/gowifi), [gows](https://github.com/cookiengineer/gows).
-
-:construction: Unstable projects built with exocomp are [clausrts](https://github.com/cookiengineer/clausrts),
-[godecompose](https://github.com/cookiengineer/godecompose) and [poqman](https://github.com/cookiengineer/poqman).
-They still need some more care for a the typically required refactor after an agentic environment was used
-to build a prototype.
-
-:computer: Previously I did Blueteam/Purpleteam work, by defending network infrastructures and by
-making large-scale computation systems more secure (e.g. ISO 27001, ISO 27033 or IEC 62443, ISO 21434,
-ISO 26262, UN Regulations No 155/156 and NIS2).
-
-:hammer_and_pick: I believe the programming language with the least maintenance burden is `Go`. You
-can write me some hatemail to `idontcare [at] cookie.engineer` on how `Rust` is better in every way
-while still ignoring that you probably maintain more bindings than actual program codebases.
+:link: My other projects are documented pretty well on [Cookie's Awesome Website](https://cookie.engineer/index.html).
+Go check it out, it's really awesome. Let me know if you found the secret game level :)
 
 :heart: My preferred languages are `Go`, `eBPF`, and `WebASM`. But I've done a lot of work in `C`,
 `C++`, `NASM`, `node.js`, `RAPID`, `SPS`, `JerryScript`, `HTML5`, `CSS4`, `WebGL`, `Python`,
 `Rust`, `Lua`, `Nidium` and probably other runtimes due to my passion for electronics, robotics, CTFs,
 and gamedev jams.
 
-:robot: I love to automate code generation with co-evolutionary [backpropagated ES/HyperNEAT](https://stars.library.ucf.edu/facultybib2000/2178/),
-[Hypernetworks](https://arxiv.org/abs/1609.09106) and [Compositional Game Theory](https://arxiv.org/abs/1603.04641)
-based systems to build automated Cyber Defense systems.
-
 :hushed: I'm a 4chan (`/g/`, `/pol/`, `/q/`, `kiwifarms`) discreditation target of 2021, so you'll
 find lots of lies about me on the Web, including news websites that apparently never verify their sources
 before publishing clickbaity stories.
-
-:rainbow: I believe in Human Rights. The [Tholian Network Charter](https://tholian.network/charter.html)
-is my attempt of creating guidelines for a cooperative future that embraces the potential of a
-mutually helping and understanding society.
 
 Live long and prosper. :vulcan_salute:
 
