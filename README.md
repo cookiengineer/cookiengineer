@@ -33,6 +33,8 @@ the first self-spreading counter-worm vaccine. The vaccine itself was a response
 malware campaigns, which was developed using ChatGPT Codex and had 17 different mutations while the campaign
 was still ongoing in the first two weeks.
 
+:shit: All my vibecoded projects are in my separate organization called [Cookie Engineer's Bakery](https://github.com/cookie-engineers-bakery)
+
 :link: My other projects are documented pretty well on [Cookie's Awesome Website](https://cookie.engineer/index.html).
 Go check it out, it's really awesome. Let me know if you found the secret game level :)
 
