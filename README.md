@@ -8,6 +8,8 @@ I'm Cookie Engineer, and this is me:
 and `infosec`. I do a lot of binary exploitation CTFs, but I'm still pretty bad at it. Check out my
 [writeups](https://github.com/cookiengineer/writeups) if you like that sorta thing.
 
+:shit: All my vibecoded projects are in my separate organization called [The Cookie Bakery](https://github.com/the-cookie-bakery)
+
 :rocket: I'm working on the [Tholian Network](https://tholian.network) which aims to create a peer-to-peer
 self-adapting Cyber Defense Network that proactively analyzes and infiltrates malware implants and fights back
 against APT controlled botnets. It's something in between reproducible Cybersecurity as Code and a symbolic
@@ -32,8 +34,6 @@ Reactive MVC architecture.
 the first self-spreading counter-worm vaccine. The vaccine itself was a response to the [miasma](https://github.com/cookiengineer/miasma-sample)
 malware campaigns, which was developed using ChatGPT Codex and had 17 different mutations while the campaign
 was still ongoing in the first two weeks.
-
-:shit: All my vibecoded projects are in my separate organization called [Cookie Engineer's Bakery](https://github.com/cookie-engineers-bakery)
 
 :link: My other projects are documented pretty well on [Cookie's Awesome Website](https://cookie.engineer/index.html).
 Go check it out, it's really awesome. Let me know if you found the secret game level :)
